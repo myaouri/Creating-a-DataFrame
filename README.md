@@ -1,8 +1,8 @@
 ## Creating DataFrame:
 
-# Importing the dependencies
+### Importing the dependencies
 
-1 Creating a DataFrame using Python Dictionary :
+1 Creating Pandas DataFrames :
 
     #### From a dictionary with index :
 
@@ -37,23 +37,23 @@
     -  Generate a DataFrame from the dictionary of tuples
     -  Print the DataFrame
 
-2 Select, add, delete.
+2 Select, add, delete :
 
     -  Create a DataFrame and take a look at it
-    -  list of Columns
+    -  List of Columns
     -  Select a column of the DataFrame 
     -  Select using index 
         -   Select rows
         -   Select columns
 
-    -   Arthmetic vectorized using a string 
-    -   Arithmetic vectorized operation using add, sub...etc 
+    -  Arthmetic vectorized using a string 
+    -  Arithmetic vectorized operation using add, sub...etc 
         -   Using substraction
         -   Using add method
         -   Using multiplication
-    -   Deleting a column 
-    -   Adding a column
+    -  Deleting a column 
+    -  Adding a column
         -   Using a scalar
         -   Using a list
         -   Using insert method
-        -   
+
