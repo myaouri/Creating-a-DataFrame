@@ -15,7 +15,7 @@
     #### From a dictionary of list :
 
     -  Create a dictionary of list
-    -  Genarate a DataFrame from the dictionary
+    -  Generate a DataFrame from the dictionary
     -  Print the DataFrame
 
     #### From list of dictionaries :
@@ -24,8 +24,8 @@
     -  Create a DataFrame using the list of dictionary
     -  Print the DataFrame
 
-    #### From dictionaies containing Series as values :
-    
+    #### From dictionaries containing Series as values :
+
     -  Create a dictionary containing a Series as values
     -  Create a DataFrame using the Series' dictionary
     -  Print the DataFrame
@@ -41,19 +41,18 @@
 
     -  Create a DataFrame and take a look at it
     -  List of Columns
-    -  Select a column of the DataFrame 
-    -  Select using index 
+    -  Select a column of the DataFrame
+    -  Select using index
         -   Select rows
         -   Select columns
 
-    -  Arthmetic vectorized using a string 
-    -  Arithmetic vectorized operation using add, sub...etc 
-        -   Using substraction
+    -  Arithmetic vectorized using a string
+    -  Arithmetic vectorized operation using add, sub...etc
+        -   Using subtraction
         -   Using add method
         -   Using multiplication
-    -  Deleting a column 
+    -  Deleting a column
     -  Adding a column
         -   Using a scalar
         -   Using a list
         -   Using insert method
-
